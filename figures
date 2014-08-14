@@ -1,5 +1,5 @@
-$ cd C:/Users/GS/Documents
+cd C:/Users/GS/Documents
 
-$ git add figure
+git add figure
 
-$ git commit -m "Adding a new directory"
+git commit -m "Adding a new directory"
