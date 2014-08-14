@@ -1,5 +1,2 @@
-$ cd C:\Users\GS\Documents
-
-$ git add figures
-
-$ git commit -m "Adding a new directory"
+git rm figures
+git commit -m "remove figures"
